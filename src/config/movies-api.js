@@ -1,4 +1,4 @@
-const moviesApi = "c693e20d7a9ddc211375097779bfdc8b";
+const moviesApi = process.env.REACT_APP_MOVIES_API_KEY;
 
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${moviesApi}&language=en-US`,
@@ -13,4 +13,4 @@ const requests = {
 
 export default requests;
 
-// https://api.themoviedb.org/3/trending/all/week?api_key=c693e20d7a9ddc211375097779bfdc8b&language=en-US
+// https://api.themoviedb.org/3/trending/all/week?api_key=${moviesApi}&language=en-US
