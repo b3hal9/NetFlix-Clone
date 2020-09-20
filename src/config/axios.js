@@ -5,5 +5,3 @@ const instance = axios.create({
 });
 
 export default instance;
-
-// https://netflixclone-938e8.web.app
