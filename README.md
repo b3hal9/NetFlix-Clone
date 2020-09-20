@@ -2,9 +2,7 @@
 
 ### [Live Site](https://netflixclone-938e8.web.app)
 
-![Netflix](https://drive.google.com/file/d/1KqtSTANpc_XDxwJuT_1Uo_DX_Q8rvcuu/view?usp=sharing)
-(https://drive.google.com/file/d/1A_-fX8VmlQZFNs3e9tIg5k8J13CD_qN8/view?usp=sharing)
-
+<img src="./src/assests/screenshots/home.png" alt="netflix homepage">
 ![Trailer](https://drive.google.com/file/d/1A_-fX8VmlQZFNs3e9tIg5k8J13CD_qN8/view?usp=sharing)
 
 ## Introduction
