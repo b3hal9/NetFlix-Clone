@@ -1,9 +1,15 @@
-#Netflix Clone
+# Netflix Clone
 
 ### [Live Site](https://netflixclone-938e8.web.app)
 
+## Home Page
 <img src="./src/assests/screenshots/home.png" alt="netflix homepage">
-![Trailer](https://drive.google.com/file/d/1A_-fX8VmlQZFNs3e9tIg5k8J13CD_qN8/view?usp=sharing)
+
+## Categories
+<img src="./src/assests/screenshots/netflix1.png" alt="netflix homepage">
+
+## Movie Trailer
+<img src="./src/assests/screenshots/netflix2.png" alt="netflix homepage">
 
 ## Introduction
 
